@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Bob Kunanda<br/><br>👩🏻‍🎓 Studied Computer Science at the ITB, Indonesia<br/><br>👀 I’m interested in Data<br/><br>🌱 I’m currently learning machine learning<br/><br>📫 How to reach me @bobkunanda13 (Instagram), bobkunanda@gmail.com (gmail), 08112167603 (whatsapp)<br/>
+👋 Hi, I’m Bob Kunanda<br/><br>
+👩🏻‍🎓 Studied Computer Science at the ITB, Indonesia<br/><br>
+👀 I’m interested in Data<br/><br>
+📫 How to reach me @bobkunanda13 (Instagram), bobkunanda@gmail.com (gmail), 08112167603 (whatsapp)<br/>
 
 
 ## 🌐 Socials:
